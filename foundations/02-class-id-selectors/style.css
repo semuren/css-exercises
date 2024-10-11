@@ -1,0 +1,19 @@
+.first-class {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#numberTwo {
+    color: rgb(7, 161, 212);
+    font-size: 30px;
+}
+
+#idOnClass {
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
